@@ -4,3 +4,10 @@ Trello: https://trello.com/invite/b/67c0162cdda391ca2caa9a0c/ATTIbaba2187a1e8df4
 
 Whatsapp:
 https://chat.whatsapp.com/BVrP7ACSqCR4hPlrr0aYtJ
+
+
+Used Model:  https://huggingface.co/TURKCELL/Turkcell-LLM-7b-v1
+
+Dataset:  https://web.itu.edu.tr/~yildizh/fikralar/fikralarana.htm
+          https://www.aksehir.bel.tr/fikralar.pdf
+          
