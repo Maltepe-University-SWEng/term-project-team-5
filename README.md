@@ -10,4 +10,6 @@ Used Model:  https://huggingface.co/TURKCELL/Turkcell-LLM-7b-v1
 
 Dataset:  https://web.itu.edu.tr/~yildizh/fikralar/fikralarana.htm
           https://www.aksehir.bel.tr/fikralar.pdf
+
+Kaggle: https://www.kaggle.com/code/selenbingl/se403/edit
           
